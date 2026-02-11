@@ -8,4 +8,4 @@ This dashboard showcases year-wise trends using interactive charts, festive icon
 🌧️ Precipitation insights over time
 🎨 Custom Halloween visuals, icons & background for strong storytelling
 ✨ This project reflects how design + analytics can turn raw data into an eye-catching and impactful narrative.
-Happy to hear your thoughts! 👻🎃
+Happy to hear your thoughts! 👻🎃.
